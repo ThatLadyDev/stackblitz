@@ -1,3 +1,2 @@
-# svelte-bvhg12
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/svelte-bvhg12)
+# This is the day 15 assessment boiler plate
+Author: Lois
